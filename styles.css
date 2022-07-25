@@ -1,0 +1,57 @@
+	body {
+			background-color: #d4ceb0;
+			margin: 10px 20%;
+			font-family: 'Montserrat', sans-serif;
+		}
+
+		/* Styling the Title and giving
+		shadow to the title */
+		#title {
+			text-align: center;
+			font-family: 'Abril Fatface', cursive;
+			font-size: 7vh;
+		}
+
+		/* Setting width and display
+		type of image */
+		img {
+			display: flex;
+			display: block;
+			justify-content: center;
+			max-width: 100%;
+			height:auto;
+			margin: 0 auto; 
+		}
+
+\
+		#img-caption {
+			text-align: center;
+			font-size: 17px;
+			font-family: serif;
+			color: black;
+		}
+
+	
+		div#tribute-info {
+			background-color: #ede7cf;
+			padding: 25px 25px;
+			margin: 0px;
+			margin-top: 50px;
+		}
+
+		/* Styling the title of the content */
+		.title-RF {
+			font-family: 'Abril Fatface', cursive;
+			font-size: 30px;
+			text-align: center;
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+
+		footer{
+			text-align: center;
+		}
